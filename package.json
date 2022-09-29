@@ -1,0 +1,10 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "swkのサイトです.",
+  "main": "./app/server.js",
+  "scripts": {
+    "start": "node ./app/server.js"
+  },
+  "author": "swk"
+}
