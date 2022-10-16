@@ -1,4 +1,168 @@
 h1 {
-    background-image: url("../images/top_background_placeholder.png");
-    color: red;
+    /* background-image: url("../images/top_background_placeholder.png"); */
+
+    position: absolute;
+width: 930px;
+height: 154px;
+left: 15px;
+top: -50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 121px;
+
+color: #FFFFFF;
+    
+}
+.head_pic{
+    background: url("../images/sample_pic2.jpeg");
+    position: absolute;
+    width: 105%;
+    height: 100%;
+    top: 0px;
+    left:-10px;
+    align-items: flex-start
+}
+
+.backcoler1{
+position: absolute;
+width: 891px;
+height: 180px;
+left: 0px;
+top: 249px;
+
+background: rgba(101, 175, 235, 0.7);
+}
+.backcoler2{
+    position: absolute;
+width: 985px;
+height: 61px;
+left: -48px;
+top: 1024px;
+
+background: #A4DC74;
+}
+h3{
+    position: absolute;
+width: 500px;
+height: 61px;
+left: 437px;
+top: -50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* ボックスの高さと同一 */
+
+
+color: #606060;
+}
+.midorigame{
+    
+position: absolute;
+width: 280px;
+height: 48px;
+left: 40%;
+top: 1285px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+.contact{
+    /* お問合せ */
+
+
+/* position: absolute;
+width: 180px;
+height: 24px;
+left: 642px;
+top: 0px; */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+.tell{
+    /* TEL: 0808080808080808 */
+
+
+/* position: absolute;
+width: 246px;
+height: 24px;
+left: 547px;
+top: 46px; */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.mail{
+    /* EMAIL: email@email.com */
+
+
+/* position: absolute;
+width: 236px;
+height: 24px;
+left: 552px;
+top: 86px; */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+.g_form{
+    /* position: absolute;
+width: 542px;
+height: 60px;
+left: 552px;
+top: 126px; */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+.futter_back{
+ position: absolute;
+width: 1440px;
+height: 404px;
+left: 2px;
+top: 1644px;
+
+background: #65AFEB;
+
+}
+.contact{
+    justify-content:first baseline;
+    align-items: center;
+    display:flex;
+    flex-direction: column;
 }
