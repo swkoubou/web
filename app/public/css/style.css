@@ -16,8 +16,8 @@ line-height: 121px;
 color: #FFFFFF;
     
 }
-.head_pic{
-    background: url("../images/sample_pic2.jpeg");
+.head_pic{    background: url("../images/sample_pic2.jpeg");
+
     position: absolute;
     width: 105%;
     height: 100%;
