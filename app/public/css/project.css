@@ -1,0 +1,166 @@
+
+
+.bar1{
+  /* Rectangle 13 */
+
+
+position: absolute;
+width: 987px;
+height: 165px;
+left: 4px;
+top: 97px;
+
+background: rgba(101, 175, 235, 0.7);
+}
+.h1{
+  /* プロジェクト */
+position: absolute;
+width: 1084px;
+height: 160px;
+left: 0px;
+top: 102px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 121px;
+
+color: #FFFFFF;
+
+}
+bar2{
+  /* Rectangle 12 */
+
+
+position: absolute;
+width: 359px;
+height: 53px;
+left: 1px;
+top: 532px;
+
+background: rgba(164, 220, 116, 0.64);
+}
+.s2022{
+  /* 2022 */
+
+
+position: absolute;
+width: 98px;
+height: 48px;
+left: 38px;
+top: 532px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+.icon1{
+  /* IMG_5865 1 */
+
+
+position: absolute;
+width: 221px;
+height: 219px;
+left: 87px;
+top: 663px;
+
+background: url(IMG_5865.jpg);
+}
+.icon1{
+  /* IMG_5865 1 */
+
+
+position: absolute;
+width: 221px;
+height: 219px;
+left: 87px;
+top: 663px;
+
+background: url(IMG_5865.jpg);
+}
+.taitol1{
+/* 沖縄マン */
+
+
+position: absolute;
+width: 302px;
+height: 49px;
+left: 347px;
+top: 663px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+/* ボックスの高さと同一 */
+
+
+color: #000000;
+}
+.content1{
+  /* sinnsyunnsayskdahcihfahciajiavjaivjaivjavhaiviah */
+
+
+position: absolute;
+width: 916px;
+height: 53px;
+left: 341px;
+top: 734px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #606060;
+}
+.ripo{
+  /* リポジトリ */
+
+
+position: absolute;
+width: 370px;
+height: 49px;
+left: 449px;
+top: 821px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+/* ボックスの高さと同一 */
+
+
+color: #1B9DF0;
+
+}
+.minicon1{
+  /* image 4 */
+
+
+position: absolute;
+width: 67px;
+height: 63px;
+left: 346px;
+top: 802px;
+
+background: url(image.png);
+}
+body{
+  /* Desktop - 5 */
+  
+  
+  position: relative;
+  width: 1440px;
+  height: 2019px;
+  
+  background: #FFFFFF;
+  }

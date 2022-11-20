@@ -19,6 +19,10 @@ app.get('/', function (req, res) {
 app.get('/members', function (req, res) {
     res.sendFile(path.join(__dirname, 'pages/members.html'));
 })
+// projectページ
+app.get('/project', function (req, res) {
+    res.sendFile(path.join(__dirname, 'pages/project.html'));
+})
 
 
 // アプリ起動
